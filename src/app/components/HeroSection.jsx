@@ -40,8 +40,7 @@ const HeroSection = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
           Skilled in designing and developing websites, proficient in installing, 
           troubleshooting, and maintaining various operating systems, including 
-          Windows, Windows Server, Linux, Android, iOS, and macOS. Experienced in system configurations, security, and issue resolution for optimal performance.
-
+          Windows, Windows Server, Linux, Android, iOS, and macOS. 
 
 
 
